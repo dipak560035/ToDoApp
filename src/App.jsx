@@ -32,6 +32,7 @@ import Categories from "./categories/Categories";
 import Categoryitem from "./category-items/Categoryitem";
 
 
+
 export default function App() {
   const router = createBrowserRouter([
     {
@@ -47,6 +48,11 @@ export default function App() {
 
   return <RouterProvider router={router} />;
 }
+
+
+
+
+// this is api connect
 
 
 
