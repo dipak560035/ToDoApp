@@ -1,22 +1,24 @@
 {
   "name": "react-app",
-  "private": true,
   "version": "0.0.0",
+  "private": true,
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "lint": "eslint ."
   },
   "dependencies": {
     "@faker-js/faker": "^10.0.0",
-    "@heroui/button": "^2.2.25",
+    "@fortawesome/fontawesome-free": "^7.0.1",
+    "@heroui/button": "^2.2.26",
     "@heroui/react": "^2.8.3",
-    "@tailwindcss/vite": "^4.1.12",
+    "axios": "^1.11.0",
     "formik": "^2.4.6",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+    "react-router-dom": "^7.8.2",
     "tailwindcss": "^4.1.12"
   },
   "devDependencies": {
