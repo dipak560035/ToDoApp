@@ -2,12 +2,7 @@
 // import { useParams } from 'react-router-dom'
 
 // export default function Categoryitem() {
-//     const {name }  = useParams();
-    
-   
-//   return (
-//     
-
+//     const 
 
 
 import axios from "axios";
