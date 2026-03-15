@@ -1,6 +1,6 @@
 
 
-// export default function Categories() {
+
 //   const [data, setData] = useState();
 //   const [load, setLoad] = useState(false);
 //   const [err, setErr] = useState();
