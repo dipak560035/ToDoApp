@@ -1,5 +1,4 @@
 
-//   const [err, setErr] = useState();
 //   const nav = useNavigate();
 
 //   const getData = async () => {
