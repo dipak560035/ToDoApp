@@ -1,5 +1,4 @@
 
-//   const [load, setLoad] = useState(false);
 //   const [err, setErr] = useState();
 //   const nav = useNavigate();
 
