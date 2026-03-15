@@ -1,7 +1,4 @@
-// import axios from "axios";
-// import { useEffect, useState } from "react";
-// import { Card, CardHeader, CardBody, Image } from "@heroui/react";
-// import { useNavigate } from "react-router-dom";  // ✅ FIXED
+
 
 // export default function Categories() {
 //   const [data, setData] = useState();
